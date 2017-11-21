@@ -1,0 +1,16 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+<leader>b	/home/morcegon/dotfiles/.vimrc	/^nmap <silent> <leader>b :TagbarToggle<CR>$/;"	m	language:Vim
+ayucolor	/home/morcegon/dotfiles/.vimrc	/^let ayucolor="mirage"$/;"	v	language:Vim
+g:airline#extensions#tabline#enabled	/home/morcegon/dotfiles/.vimrc	/^let g:airline#extensions#tabline#enabled = 1$/;"	v	language:Vim
+g:airline_detect_past	/home/morcegon/dotfiles/.vimrc	/^let g:airline_detect_past =1$/;"	v	language:Vim
+g:airline_powerline_fonts	/home/morcegon/dotfiles/.vimrc	/^let g:airline_powerline_fonts = 1$/;"	v	language:Vim
+g:airline_theme	/home/morcegon/dotfiles/.vimrc	/^let g:airline_theme='molokai'$/;"	v	language:Vim
+g:easytags_async	/home/morcegon/dotfiles/.vimrc	/^let g:easytags_async = 1$/;"	v	language:Vim
+g:easytags_dynamic_files	/home/morcegon/dotfiles/.vimrc	/^let g:easytags_dynamic_files = 2$/;"	v	language:Vim
+g:easytags_events	/home/morcegon/dotfiles/.vimrc	/^let g:easytags_events = ['BufReadPost', 'BufWritePost']$/;"	v	language:Vim
+g:easytags_resolve_links	/home/morcegon/dotfiles/.vimrc	/^let g:easytags_resolve_links = 1$/;"	v	language:Vim
+g:easytags_suppress_ctags_warning	/home/morcegon/dotfiles/.vimrc	/^let g:easytags_suppress_ctags_warning = 1$/;"	v	language:Vim
+g:syntastic_error_symbol	/home/morcegon/dotfiles/.vimrc	/^let g:syntastic_error_symbol = '✘'$/;"	v	language:Vim
+g:syntastic_php_checkers	/home/morcegon/dotfiles/.vimrc	/^let g:syntastic_php_checkers = ['php', 'phpcs']$/;"	v	language:Vim
+g:syntastic_warning_symbol	/home/morcegon/dotfiles/.vimrc	/^let g:syntastic_warning_symbol = "▲"$/;"	v	language:Vim
+mySyntastic	/home/morcegon/dotfiles/.vimrc	/^augroup mySyntastic$/;"	a	language:Vim
